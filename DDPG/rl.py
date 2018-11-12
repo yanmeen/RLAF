@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+
+# by Dr. Ming Yan (11/2018)
+# yan.meen@gmail.com
+# https://github.com/yanmeen/rlaf
+#
+# =============================================================================
 import tensorflow as tf
 import numpy as np
 

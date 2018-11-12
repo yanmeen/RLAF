@@ -1,10 +1,10 @@
-"""
-This part of code is the Q learning brain, which is a brain of the agent.
-All decisions are made in here.
+# -*- coding: utf-8 -*-
 
-View more on my tutorial page: https://morvanzhou.github.io/tutorials/
-"""
-
+# by Dr. Ming Yan (11/2018)
+# yan.meen@gmail.com
+# https://github.com/yanmeen/rlaf
+#
+# =============================================================================
 import numpy as np
 import pandas as pd
 

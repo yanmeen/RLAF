@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+
+# by Dr. Ming Yan (11/2018)
+# yan.meen@gmail.com
+# https://github.com/yanmeen/rlaf
+#
+# =============================================================================
 import numpy as np
 from skimage import io as skio
 from feature import img_feature_analysis as ifa

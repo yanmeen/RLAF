@@ -1,8 +1,10 @@
-"""
-Make it more robust.
-Stop episode once the finger stop at the final position for 50 steps.
-Feature & reward engineering.
-"""
+# -*- coding: utf-8 -*-
+
+# by Dr. Ming Yan (11/2018)
+# yan.meen@gmail.com
+# https://github.com/yanmeen/rlaf
+#
+# =============================================================================
 from env_Camera import CameraEnv
 from rl import DDPG
 
